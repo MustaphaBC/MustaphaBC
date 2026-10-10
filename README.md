@@ -2,7 +2,7 @@
 
 ### Data Science · Intelligence artificielle · Applications logicielles
 
-[📧 Contact](mailto:mustapha.bencheikh1@usmba.ac.ma) · [GitHub](https://github.com/MustaphaBC)
+[📧 Contact](mailto:mustapha.bencheikh1@usmba.ac.ma) · [Portfolio](https://mustaphabc.github.io/) · [GitHub](https://github.com/MustaphaBC)
 
 ## Profil
 
